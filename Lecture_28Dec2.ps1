@@ -12,5 +12,5 @@ Import-Module -Name "writehello" -Force
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 Write-Hello
 Get-Help Import-Module -ShowWindow
-Import-Module -Name 'writehello' -Force
+Import-Module -Name "writehello" -Force
 
